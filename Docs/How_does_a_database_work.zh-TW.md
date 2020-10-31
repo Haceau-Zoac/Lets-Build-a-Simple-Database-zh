@@ -11,11 +11,11 @@
 
 短一些，一個數據庫是如何**工作**的？
 
-我正在用 C 從頭開始創建一個 sqlite 的副本，以了解數據庫是如何工作的，並記錄我的流程。
+我正在用 C 從頭開始創建一個 [sqlite](https://www.sqlite.org/arch.html) 的副本，以了解數據庫是如何工作的，並記錄我的流程。
 
 目錄
 ===
-* [Part 1 - 簡介和設置 REPL](https://cstack.github.io/db_tutorial/parts/part1.html)（尚未翻譯）
+* [Part 1 - 簡介和設置 REPL](Introduction_and_Setting_up_the_REPL.zh-TW.md)
 * [Part 2 - 世界上最簡單的SQL編譯器和虛擬機](https://cstack.github.io/db_tutorial/parts/part2.html)（尚未翻譯）
 * [Part 3 - 一個存儲在內存的，只能追加數據的，只有一個表的數據庫](https://cstack.github.io/db_tutorial/parts/part3.html)（尚未翻譯）
 * [Part 4 - 我們的第一個測試(以及Bug)](https://cstack.github.io/db_tutorial/parts/part4.html)（尚未翻譯）
@@ -29,4 +29,10 @@
 * [Part 12 - 掃描一個多級B樹](https://cstack.github.io/db_tutorial/parts/part12.html)（尚未翻譯）
 * [Part 13 - 在分割後更新樹節點](https://cstack.github.io/db_tutorial/parts/part13.html)（尚未翻譯）
 
-> “What I cannot create, I do not understand.” - [理查德·費曼](https://en.m.wikiquote.org/wiki/Richard_Feynman)
+> *“What I cannot create, I do not understand.” - [理查德·費曼](https://en.m.wikiquote.org/wiki/Richard_Feynman)*
+
+<div align=center>
+    <img src="https://cstack.github.io/db_tutorial/assets/images/arch2.gif" alt="sqlite 架構（https://www.sqlite.org/arch.html）"/>
+    <hr/>
+    sqlite 架構（https://www.sqlite.org/arch.html）
+</div>

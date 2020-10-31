@@ -14,4 +14,4 @@ Let's Build a Simple Database-zh
 
 如何開始？
 ===
-從 [How does a database work](Docs/How_does_a_database_work.md) 開始吧！
+從 [How does a database work](Docs/How_does_a_database_work.zh-TW.md) 開始吧！
