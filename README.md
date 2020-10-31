@@ -2,7 +2,7 @@ Let's Build a Simple Database-zh
 ===
 简体中文 | [繁体中文](README.zh-TW.md)
 
-[db_tutorual](https://github.com/cstack/db_tutorial) 的中文翻译 :cn:
+[db_tutorual](https://github.com/cstack/db_tutorial) 的中文翻译 :cn: （欢迎提 Issues 和 Pull request！）
 
 为什么做这个项目？
 ===
