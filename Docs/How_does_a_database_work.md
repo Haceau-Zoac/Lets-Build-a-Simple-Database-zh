@@ -1,38 +1,38 @@
-Ò»¸öÊı¾İ¿âÊÇÈçºÎ¹¤×÷µÄ£¿
+æ•°æ®åº“æ˜¯å¦‚ä½•å·¥ä½œçš„ï¼Ÿ
 ===
-¼òÌåÖĞÎÄ | [·±ówÖĞÎÄ](How_does_a_database_work.zh-TW.md)
-* Êı¾İ±£´æµÄ¸ñÊ½ÊÇÊ²Ã´£¿£¨ÔÚÄÚ´æºÍÓ²ÅÌÖĞ£©
-* Ê²Ã´ÊÇºò½«Ëü´ÓÄÚ´æÒÆ¶¯µ½Ó²ÅÌÖĞ£¿
-* ÎªÊ²Ã´Ò»¸öÊı¾İ±íÖ»ÄÜÓĞÒ»¸öÖ÷¼ü£¿
-* »Ø¹ö²Ù×÷ÊÇÔõÃ´Íê³ÉµÄ£¿
-* Ë÷ÒıÊÇÈçºÎ¸ñÊ½»¯µÄ£¿
-* ºÎÊ±¼°ÈçºÎ½øĞĞÈ«±íÉ¨Ãè£¿
-* ×¼±¸ºÃµÄÓï¾äÒÔÊ²Ã´¸ñÊ½±£´æ£¿
+ç®€ä½“ä¸­æ–‡ | [ç¹é«”ä¸­æ–‡](How_does_a_database_work.zh-TW.md)
+* å†…å­˜å’Œç¡¬ç›˜é‡Œçš„æ•°æ®æ˜¯ç”¨ä»€ä¹ˆæ ¼å¼ä¿å­˜çš„ï¼Ÿ
+* å®ƒä»€ä¹ˆæ—¶å€™ä»å†…å­˜ç§»åŠ¨åˆ°ç¡¬ç›˜ï¼Ÿ
+* ä¸ºä»€ä¹ˆä¸€ä¸ªæ•°æ®è¡¨åªèƒ½æœ‰ä¸€ä¸ªä¸»é”®ï¼Ÿ
+* å›æ»šæ“ä½œæ˜¯æ€ä¹ˆå®Œæˆçš„ï¼Ÿ
+* ç´¢å¼•æ˜¯å¦‚ä½•æ ¼å¼åŒ–çš„ï¼Ÿ
+* ä»€ä¹ˆæ—¶å€™è¿›è¡Œã€æ€ä¹ˆè¿›è¡Œå…¨è¡¨æ‰«æï¼Ÿ
+* å‡†å¤‡å¥½çš„è¯­å¥ä½¿ç”¨ä»€ä¹ˆæ ¼å¼ä¿å­˜çš„ï¼Ÿ
 
-¶ÌÒ»Ğ©£¬Ò»¸öÊı¾İ¿âÊÇÈçºÎ**¹¤×÷**µÄ£¿
+çŸ­ä¸€äº›ï¼Œä¸€ä¸ªæ•°æ®åº“æ˜¯å¦‚ä½•**å·¥ä½œ**çš„ï¼Ÿ
 
-ÎÒÕıÔÚÓÃ C ´ÓÍ·¿ªÊ¼´´½¨Ò»¸ö [sqlite](https://www.sqlite.org/arch.html) µÄ¸±±¾£¬ÒÔÁË½âÊı¾İ¿âÊÇÈçºÎ¹¤×÷µÄ£¬²¢ÇÒ¼ÇÂ¼ÎÒµÄÁ÷³Ì¡£
+æˆ‘æ­£åœ¨ç”¨ C ä»å¤´å¼€å§‹åˆ›å»ºä¸€ä¸ª [sqlite](https://www.sqlite.org/arch.html) çš„å‰¯æœ¬ï¼Œä»¥äº†è§£æ•°æ®åº“æ˜¯å¦‚ä½•å·¥ä½œçš„ï¼Œå¹¶ä¸”è®°å½•æˆ‘çš„æµç¨‹ã€‚
 
-Ä¿Â¼
+ç›®å½•
 ===
-* [Part 1 - ¼ò½é¼°ÉèÖÃ REPL](Introduction_and_Setting_up_the_REPL.md)
-* [Part 2 - ÊÀ½çÉÏ×î¼òµ¥µÄ SQL ±àÒëÆ÷ºÍĞéÄâ»ú](https://cstack.github.io/db_tutorial/parts/part2.html)£¨ÉĞÎ´·­Òë£©
-* [Part 3 - Ò»¸ö´æ´¢ÔÚÄÚ´æµÄ¡¢Ö»ÄÜ×·¼ÓÊı¾İµÄ¡¢Ö»ÓĞÒ»¸ö±íµÄÊı¾İ¿â](https://cstack.github.io/db_tutorial/parts/part3.html)£¨ÉĞÎ´·­Òë£©
-* [Part 4 - ÎÒÃÇµÄµÚÒ»¸ö²âÊÔ£¨ÒÔ¼° Bugs£©](https://cstack.github.io/db_tutorial/parts/part4.html)£¨ÉĞÎ´·­Òë£©
-* [Part 5 - ³Ö¾Ã»¯µ½Ó²ÅÌ](https://cstack.github.io/db_tutorial/parts/part5.html)£¨ÉĞÎ´·­Òë£©
-* [Part 6 - ÓÎ±ê³éÏó](https://cstack.github.io/db_tutorial/parts/part6.html)£¨ÉĞÎ´·­Òë£©
-* [Part 7 - ½éÉÜBÊ÷](https://cstack.github.io/db_tutorial/parts/part7.html)£¨ÉĞÎ´·­Òë£©
-* [Part 8 - BÊ÷Ò¶×Ó½áµãµÄ¸ñÊ½](https://cstack.github.io/db_tutorial/parts/part8.html)£¨ÉĞÎ´·­Òë£©
-* [Part 9 - ¶ş·ÖËÑË÷ºÍÖØ¸´¼ü](https://cstack.github.io/db_tutorial/parts/part9.html)£¨ÉĞÎ´·­Òë£©
-* [Part 10 - ·Ö¸îÒ»¸öÒ¶½Úµã](https://cstack.github.io/db_tutorial/parts/part10.html)£¨ÉĞÎ´·­Òë£©
-* [Part 11 - µİ¹éËÑË÷BÊ÷](https://cstack.github.io/db_tutorial/parts/part11.html)£¨ÉĞÎ´·­Òë£©
-* [Part 12 - É¨ÃèÒ»¸ö¶à¼¶BÊ÷](https://cstack.github.io/db_tutorial/parts/part12.html)£¨ÉĞÎ´·­Òë£©
-* [Part 13 - ÔÚ·Ö¸îºó¸üĞÂÊ÷½Úµã](https://cstack.github.io/db_tutorial/parts/part13.html)£¨ÉĞÎ´·­Òë£©
+* [Part 1 - ä»‹ç»å¹¶è®¾ç½® REPL](Introduction_and_Setting_up_the_REPL.md)
+* [Part 2 - ä¸–ç•Œä¸Šæœ€ç®€å•çš„ SQL ç¼–è¯‘å™¨å’Œè™šæ‹Ÿæœº](https://cstack.github.io/db_tutorial/parts/part2.html)ï¼ˆå°šæœªç¿»è¯‘ï¼‰
+* [Part 3 - ä¸€ä¸ªåªèƒ½æ·»åŠ æ•°æ®çš„ã€åªæœ‰ä¸€ä¸ªè¡¨çš„å†…å­˜æ•°æ®åº“](https://cstack.github.io/db_tutorial/parts/part3.html)ï¼ˆå°šæœªç¿»è¯‘ï¼‰
+* [Part 4 - æˆ‘ä»¬çš„ç¬¬ä¸€æ¬¡æµ‹è¯•ï¼ˆä»¥åŠ Bugsï¼‰](https://cstack.github.io/db_tutorial/parts/part4.html)ï¼ˆå°šæœªç¿»è¯‘ï¼‰
+* [Part 5 - æŒä¹…åŒ–åˆ°ç¡¬ç›˜](https://cstack.github.io/db_tutorial/parts/part5.html)ï¼ˆå°šæœªç¿»è¯‘ï¼‰
+* [Part 6 - æ¸¸æ ‡æŠ½è±¡](https://cstack.github.io/db_tutorial/parts/part6.html)ï¼ˆå°šæœªç¿»è¯‘ï¼‰
+* [Part 7 - ä»‹ç» B-æ ‘](https://cstack.github.io/db_tutorial/parts/part7.html)ï¼ˆå°šæœªç¿»è¯‘ï¼‰
+* [Part 8 - B-æ ‘å¶å­ç»“ç‚¹çš„æ ¼å¼](https://cstack.github.io/db_tutorial/parts/part8.html)ï¼ˆå°šæœªç¿»è¯‘ï¼‰
+* [Part 9 - äºŒåˆ†æœç´¢å’Œé‡å¤é”®](https://cstack.github.io/db_tutorial/parts/part9.html)ï¼ˆå°šæœªç¿»è¯‘ï¼‰
+* [Part 10 - åˆ†å‰²å¶èŠ‚ç‚¹](https://cstack.github.io/db_tutorial/parts/part10.html)ï¼ˆå°šæœªç¿»è¯‘ï¼‰
+* [Part 11 - é€’å½’æœç´¢ B-æ ‘](https://cstack.github.io/db_tutorial/parts/part11.html)ï¼ˆå°šæœªç¿»è¯‘ï¼‰
+* [Part 12 - æ‰«æå¤šçº§ B-æ ‘](https://cstack.github.io/db_tutorial/parts/part12.html)ï¼ˆå°šæœªç¿»è¯‘ï¼‰
+* [Part 13 - åˆ†å‰²åæ›´æ–°æ ‘èŠ‚ç‚¹](https://cstack.github.io/db_tutorial/parts/part13.html)ï¼ˆå°šæœªç¿»è¯‘ï¼‰
 
-> *¡°What I cannot create, I do not understand." - [Àí²éµÂ¡¤·ÑÂü](https://en.m.wikiquote.org/wiki/Richard_Feynman)*
+> *"What I cannot create, I do not understand." - [ç†æŸ¥å¾·Â·è´¹å°”æ›¼](https://en.m.wikiquote.org/wiki/Richard_Feynman)*
 
 <div align=center>
-    <img src="https://cstack.github.io/db_tutorial/assets/images/arch2.gif" alt="sqlite ¼Ü¹¹£¨https://www.sqlite.org/arch.html£©"/>
+    <img src="https://cstack.github.io/db_tutorial/assets/images/arch2.gif" alt="sqlite æ¶æ„ï¼ˆhttps://www.sqlite.org/arch.htmlï¼‰"/>
     <hr/>
-    sqlite ¼Ü¹¹£¨https://www.sqlite.org/arch.html£©
+    sqlite æ¶æ„ï¼ˆhttps://www.sqlite.org/arch.htmlï¼‰
 </div>
