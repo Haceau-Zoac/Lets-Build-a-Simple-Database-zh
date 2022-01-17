@@ -29,7 +29,7 @@
 * [Part 12 - 扫描多级 B-树](https://cstack.github.io/db_tutorial/parts/part12.html)（尚未翻译）
 * [Part 13 - 分割后更新树节点](https://cstack.github.io/db_tutorial/parts/part13.html)（尚未翻译）
 
-> *"What I cannot create, I do not understand." - [理查德·费尔曼](https://en.m.wikiquote.org/wiki/Richard_Feynman)*
+> *"What I cannot create, I do not understand." - [理查德·费曼](https://en.m.wikiquote.org/wiki/Richard_Feynman)*
 
 <div align=center>
     <img src="https://cstack.github.io/db_tutorial/assets/images/arch2.gif" alt="sqlite 架构（https://www.sqlite.org/arch.html）"/>
